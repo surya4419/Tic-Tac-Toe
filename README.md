@@ -24,6 +24,7 @@ Tic-Tac-Toe is a web-based implementation of the classic game where two players 
    git clone <repository-url>
    ```
 
+
 2. Navigate to the Tic-Tac-Toe directory:
    ```
    cd Tic-Tac-Toe
