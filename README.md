@@ -32,7 +32,7 @@ Tic-Tac-Toe is a web-based implementation of the classic game where two players 
 3. Open the `index.html` file in a web browser to play the game.
 
 ## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or features.
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or features.Thank you
 
 ## License
 This project is licensed under the ISC License.
